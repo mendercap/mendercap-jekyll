@@ -1,0 +1,33 @@
+$blue: #4D8E96;
+
+.current {
+  color: $blue;
+}
+
+html {
+  background: url(../images/marko-blazevic-e2M48b0df8g-unsplash.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  font-size: 16px;
+  width:100%;
+  min-height: 100vh;
+}
+
+body {
+  width: auto;
+  text-align: left;
+}
+
+.content {
+  display: inline-block;
+  margin-left: 10vw;
+  color: white;
+  width: 700px;
+  max-width: 70vw;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
