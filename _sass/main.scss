@@ -19,12 +19,17 @@ body {
   font-family: "Equity";
 }
 
-.content {
+.content,
+.copyright {
   display: inline-block;
   margin-left: 10vw;
   color: white;
   width: 700px;
   max-width: 70vw;
+}
+
+.copyright {
+  font-size: 0.8rem
 }
 
 .content img {
@@ -40,7 +45,6 @@ body {
 
 .content li:last-child {
   margin-bottom: 0;
-  list-style: none;
 }
 
 .content li {
@@ -52,7 +56,6 @@ body {
   margin-right: 1rem;
 }
 
-.more img,
 .post-meta img {
   border: none;
   vertical-align: middle;
