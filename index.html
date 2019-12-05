@@ -10,7 +10,8 @@ title: Home
       <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
       {% include post-meta.html %}
       <p>{{ post.excerpt | strip_html }}</p>
-      <a href="{{ post.url }}">Continue reading...</a>
+      <!-- <span class="more"><a href="{{ post.url }}"><img src="/assets/images/key.svg">Continue reading...</a></span> -->
+      <span style="text-transform: lowercase; font-family: 'Equity Small Caps'"><a href="{{ post.url }}">Read more</a></span>
     </li>
   {% endfor %}
 </ul>
