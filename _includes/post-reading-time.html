@@ -1,0 +1,8 @@
+<span class="post-meta">
+{% assign words = post.content | number_of_words %}
+{% if words < 360 %}
+<img src="/assets/images/clock.svg">1 min
+{% else %}
+<img src="/assets/images/clock.svg">{{ words | divided_by:180 }} mins
+{% endif %}
+</span>

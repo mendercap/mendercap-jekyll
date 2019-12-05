@@ -5,18 +5,18 @@ $blue: #4D8E96;
 }
 
 html {
-  background: url(../images/marko-blazevic-e2M48b0df8g-unsplash.jpg);
+  background: url(../images/WavesDark.jpg);
+  background-attachment: fixed;
+  background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: center;
   font-size: 16px;
-  width:100%;
-  min-height: 100vh;
 }
 
 body {
   width: auto;
   text-align: left;
+  font-family: "Equity";
 }
 
 .content {
@@ -25,6 +25,33 @@ body {
   color: white;
   width: 700px;
   max-width: 70vw;
+}
+
+.content img {
+  max-width: 100%;
+  height: auto;
+  border: 1px solid #ddd;
+  border-radius: 2px;
+}
+
+.content ul {
+  padding-left: 0;
+}
+
+.content li {
+  list-style: none;
+}
+
+.post-meta {
+  margin-right: 1rem;
+}
+
+.post-meta img {
+  border: none;
+  vertical-align: middle;
+  width: 20px;
+  height: 20px;
+  margin-right: 0.5rem;
 }
 
 a {
