@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A Dialogue with Klem"
+title: "A dialogue with Klem"
 author: "Michael Chumak"
 tags: [ironsworn]
 ---

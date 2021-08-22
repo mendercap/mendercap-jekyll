@@ -5,7 +5,7 @@ author: "Michael Chumak"
 tags: [ironsworn]
 ---
 
-![Map of Fargrave](/assets/images/FargraveMap.001.jpg)
+![Game props](/assets/images/210822.IronswornProps.1000.jpg)
 
 I'm starting up another solo Ironsworn campaign. I'd like to journal it here, but no promises. Time's pretty tight with a recent addition to the family.
 
@@ -14,7 +14,6 @@ This post will be a session zero of sorts. I'll describe my approach to the game
 <!-- more -->
 
 Here's some thoughts on this campaign:
-
 - **Goal**. My goal with this campaign is to (a) play more RPGs; (b) internalise Ironsworn rules; and (c) destress through a hobby I love
 - **Style**. I want to focus on the gameplay, not use this as a writing exercise. I'll keep the narrative pretty lean and keep the spotlight on the mechanics
 - **Schedule**. I'll try to keep a consistent schedule. If I fail to keep to a schedule, no stress. It's hobby time, which is pretty low on the pecking order of time
@@ -22,7 +21,6 @@ Here's some thoughts on this campaign:
 I might come back and add to the above later on.
 
 I'm going to play in Ironsworn's default setting. I've gone through the worldbuilding exercise and chose the following truths:
-
 - **The Old World**. The sickness moved like a horrible wave across the Old World, killing all in its path. Thousands fled aboard ships.
 However, the plague could not be outrun. On many ships, the disease was contained through ruthless measures—tossing overboard any who exhibited the slightest symptom. Other ships were forever lost. In the end, those who survived found the Ironlands and made it their new home. Some say we will forever be cursed by those we left behind.
 - **Iron**. The imposing hills and mountains of the Ironlands are rich in iron ore. Most prized of all is the star-forged black iron.
@@ -37,4 +35,3 @@ abandoned us.
 - **Beasts**. Monstrous beasts stalk the wild areas of the Ironlands.
 - **Horrors**. The dead do not rest in the Ironlands. At night we light torches, scatter salt, and post sentries at the gate. It is not enough.
 They are coming.
-

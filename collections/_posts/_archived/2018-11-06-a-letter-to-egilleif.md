@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A Letter to Egilleif"
+title: "A letter to Egilleif"
 author: "Michael Chumak"
 tags: [ironsworn]
 ---

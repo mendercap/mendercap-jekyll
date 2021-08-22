@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "An Unexpected Response"
+title: "An unexpected response"
 author: "Kurt"
 tags: [ironsworn, guestpost]
 ---
