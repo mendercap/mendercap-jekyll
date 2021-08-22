@@ -2,7 +2,7 @@
 layout: post
 title: "Starting back up with Ironsworn"
 author: "Michael Chumak"
-tags: [ironsworn]
+tags: [ironsworn, ap]
 ---
 
 ![Game props](/assets/images/210822.IronswornProps.1000.jpg)
@@ -35,3 +35,5 @@ abandoned us.
 - **Beasts**. Monstrous beasts stalk the wild areas of the Ironlands.
 - **Horrors**. The dead do not rest in the Ironlands. At night we light torches, scatter salt, and post sentries at the gate. It is not enough.
 They are coming.
+
+Next post will have character creation.
