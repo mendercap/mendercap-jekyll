@@ -53,7 +53,7 @@ body {
 }
 
 .content strong {
-  text-shadow: 2px 2px darkslategrey;
+  color: $blue;
 }
 
 .feed li {
@@ -62,6 +62,7 @@ body {
 
 .post-meta {
   margin-right: 1rem;
+  color: $blue;
 }
 
 .post-meta img {
